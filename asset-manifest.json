@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/test1/static/css/main.463d12f4.css",
-    "main.js": "/test1/static/js/main.8435c748.js",
+    "main.css": "/test1/static/css/main.48593d72.css",
+    "main.js": "/test1/static/js/main.09405b52.js",
+    "static/css/446.d3a0cbd4.chunk.css": "/test1/static/css/446.d3a0cbd4.chunk.css",
+    "static/js/446.16a7e1d5.chunk.js": "/test1/static/js/446.16a7e1d5.chunk.js",
     "static/media/logo.svg": "/test1/static/media/logo.812a5e73d07553417c3af8b073142410.svg",
     "static/media/MafiaCostume_2022 2.svg": "/test1/static/media/MafiaCostume_2022 2.a0f3d12ed007fe16f2c3e92ad9b8dae4.svg",
     "static/media/MafiaCostume_2022 3.svg": "/test1/static/media/MafiaCostume_2022 3.b02a2793c2cbdd1e9f58971c9df46960.svg",
@@ -21,11 +23,13 @@
     "static/media/мана 1.svg": "/test1/static/media/мана 1.bb801a5a4579f284a41e7a63b428c94a.svg",
     "static/media/Ellipse 1.svg": "/test1/static/media/Ellipse 1.39f818680466d5cc12b3.svg",
     "index.html": "/test1/index.html",
-    "main.463d12f4.css.map": "/test1/static/css/main.463d12f4.css.map",
-    "main.8435c748.js.map": "/test1/static/js/main.8435c748.js.map"
+    "main.48593d72.css.map": "/test1/static/css/main.48593d72.css.map",
+    "main.09405b52.js.map": "/test1/static/js/main.09405b52.js.map",
+    "446.d3a0cbd4.chunk.css.map": "/test1/static/css/446.d3a0cbd4.chunk.css.map",
+    "446.16a7e1d5.chunk.js.map": "/test1/static/js/446.16a7e1d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.463d12f4.css",
-    "static/js/main.8435c748.js"
+    "static/css/main.48593d72.css",
+    "static/js/main.09405b52.js"
   ]
 }
