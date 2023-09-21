@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/test1/static/css/main.142e5714.css",
+    "main.js": "/test1/static/js/main.8435c748.js",
+    "static/media/logo.svg": "/test1/static/media/logo.812a5e73d07553417c3af8b073142410.svg",
+    "static/media/MafiaCostume_2022 2.svg": "/test1/static/media/MafiaCostume_2022 2.a0f3d12ed007fe16f2c3e92ad9b8dae4.svg",
+    "static/media/MafiaCostume_2022 3.svg": "/test1/static/media/MafiaCostume_2022 3.b02a2793c2cbdd1e9f58971c9df46960.svg",
+    "static/media/Hue_Saturation 5 1.svg": "/test1/static/media/Hue_Saturation 5 1.0ad7d8008ab51b2be4c7.svg",
+    "static/media/boxes.svg": "/test1/static/media/boxes.2d915ed2f9f20229c7cdcff9ffd332a8.svg",
+    "static/media/box.svg": "/test1/static/media/box.f49e924a082c324b9de8820f75675b48.svg",
+    "static/media/Vito 1.svg": "/test1/static/media/Vito 1.53457d0251965c0f6c756042b842e122.svg",
+    "static/media/glow 1.svg": "/test1/static/media/glow 1.dfeeccf7826fae64662494be1877deae.svg",
+    "static/media/background wall.svg": "/test1/static/media/background wall.c4b2e29ca6beee0b06d5.svg",
+    "static/media/BLUE GLOW 1.svg": "/test1/static/media/BLUE GLOW 1.e3d01d6a121404bd8b1bda21600330c0.svg",
+    "static/media/модуль 1.svg": "/test1/static/media/модуль 1.8a8ddbd6dcaecee9eca7af28e80b4d3b.svg",
+    "static/media/вито 1.svg": "/test1/static/media/вито 1.bee14b8c0695fed9a6f7fa3a679df066.svg",
+    "static/media/хрупкая 1.svg": "/test1/static/media/хрупкая 1.e8330505beb3fc7de727889e8f405048.svg",
+    "static/media/Часы copy 1.svg": "/test1/static/media/Часы copy 1.2aedc2d9c002e691228b84514fb5ae1e.svg",
+    "static/media/большой символ 1.svg": "/test1/static/media/большой символ 1.aed13dee1eb2680028cd0e4fce8543c7.svg",
+    "static/media/ТУЛБОКС 1.svg": "/test1/static/media/ТУЛБОКС 1.6b4dbc00c66421e5f0251d7f356829ce.svg",
+    "static/media/мана 1.svg": "/test1/static/media/мана 1.bb801a5a4579f284a41e7a63b428c94a.svg",
+    "static/media/Ellipse 1.svg": "/test1/static/media/Ellipse 1.39f818680466d5cc12b3.svg",
+    "index.html": "/test1/index.html",
+    "main.142e5714.css.map": "/test1/static/css/main.142e5714.css.map",
+    "main.8435c748.js.map": "/test1/static/js/main.8435c748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.142e5714.css",
+    "static/js/main.8435c748.js"
+  ]
+}
