@@ -13,7 +13,6 @@ export default function Frame2() {
         <img src={growBlu} alt="growBlu" />
       </div>
       <div className={cls.frame2}>
-
         <div className={cls.imgLeft}>
           <img className={cls.imgVito} src={vito} alt="vito" />
         </div>
