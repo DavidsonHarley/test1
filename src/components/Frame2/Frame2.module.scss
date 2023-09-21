@@ -1,0 +1,120 @@
+.frame2{
+    display: flex;
+    width: 1920px;
+    height: 1029px;
+    background: url('../../shared/image/background\ wall.svg');
+}
+
+.imgLeft{
+    z-index: 1;
+    width: 970px;
+    background: url('../../shared/image/Ellipse\ 1.svg');
+}
+
+.imgVito{
+    position: relative;
+    left: 310px;
+}
+
+.growBlu{
+    height: 160px;
+    position: relative;
+    top: 1012px;
+}
+
+.title{
+    font-family: var(--font-family-main);
+    font-size: 30px;
+    color: #416DF4;
+    line-height: 35.16px;
+}
+
+.titleServer{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 40px;
+    width: 632px;
+}
+
+.nameServer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 140px;
+    height: 23px;
+    border: 1px solid #671D007A;
+    color: #671D00;
+    font-family: var(--font-family-text);
+    font-size: 12px;
+    margin: 6px;
+}
+
+.cardItems{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 632px;
+    height: 74px;
+    border: 1px solid #671D007A;
+}
+
+.imgItems{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.titleItems{
+    margin-left: 20px;
+    width: 229px;
+}
+
+.server{
+    display: flex;
+    width: 227px;
+}
+
+.subscription{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    padding-left: 130px;
+}
+
+.items{
+    display: flex;
+    margin-top: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    position: relative;
+    right: 130px;
+    top: -57px;
+}
+
+.price{
+    font-family: var(--font-family-text);
+    font-size: 50px;
+    line-height: 58.59px;
+    color:#FFFFFF ;
+}
+
+.button{
+    font-family: var(--font-family-text);
+    font-size: 16px;
+    line-height: 18.75px;
+    background: #FCFF00;
+    width: 180px;
+    height: 40px;
+    border-radius: 7px;
+    border: 0;
+}
+
+.button:hover{
+    background-color: #0dd;
+    box-shadow: inset 0 0 0 rgba(0,170,170,0.5), 0 0 1.5em rgba(0,170,170,0.7);
+}
+
